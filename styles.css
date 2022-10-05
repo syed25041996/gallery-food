@@ -17,18 +17,16 @@ img {
 /* navbar styling */
 
 header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
   min-height: 5rem;
   background-color: aquamarine;
 }
 
 header h3 {
-  margin-left: 1rem;
+text-align: center;
+padding-top: 2rem;
 }
 
-li {
+/* li {
   list-style: none;
   display: inline-block;
   padding: 0 20px;
@@ -42,7 +40,7 @@ a {
 
 a:hover {
   color: purple;
-}
+} */
 
 /* grid layout */
 
